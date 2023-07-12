@@ -1,0 +1,15 @@
+/home/anasantos/CSharpColecoes/ListaSomenteLeitura/bin/Debug/net7.0/ListaSomenteLeitura
+/home/anasantos/CSharpColecoes/ListaSomenteLeitura/bin/Debug/net7.0/ListaSomenteLeitura.deps.json
+/home/anasantos/CSharpColecoes/ListaSomenteLeitura/bin/Debug/net7.0/ListaSomenteLeitura.runtimeconfig.json
+/home/anasantos/CSharpColecoes/ListaSomenteLeitura/bin/Debug/net7.0/ListaSomenteLeitura.dll
+/home/anasantos/CSharpColecoes/ListaSomenteLeitura/bin/Debug/net7.0/ListaSomenteLeitura.pdb
+/home/anasantos/CSharpColecoes/ListaSomenteLeitura/obj/Debug/net7.0/ListaSomenteLeitura.csproj.AssemblyReference.cache
+/home/anasantos/CSharpColecoes/ListaSomenteLeitura/obj/Debug/net7.0/ListaSomenteLeitura.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/CSharpColecoes/ListaSomenteLeitura/obj/Debug/net7.0/ListaSomenteLeitura.AssemblyInfoInputs.cache
+/home/anasantos/CSharpColecoes/ListaSomenteLeitura/obj/Debug/net7.0/ListaSomenteLeitura.AssemblyInfo.cs
+/home/anasantos/CSharpColecoes/ListaSomenteLeitura/obj/Debug/net7.0/ListaSomenteLeitura.csproj.CoreCompileInputs.cache
+/home/anasantos/CSharpColecoes/ListaSomenteLeitura/obj/Debug/net7.0/ListaSomenteLeitura.dll
+/home/anasantos/CSharpColecoes/ListaSomenteLeitura/obj/Debug/net7.0/refint/ListaSomenteLeitura.dll
+/home/anasantos/CSharpColecoes/ListaSomenteLeitura/obj/Debug/net7.0/ListaSomenteLeitura.pdb
+/home/anasantos/CSharpColecoes/ListaSomenteLeitura/obj/Debug/net7.0/ListaSomenteLeitura.genruntimeconfig.cache
+/home/anasantos/CSharpColecoes/ListaSomenteLeitura/obj/Debug/net7.0/ref/ListaSomenteLeitura.dll

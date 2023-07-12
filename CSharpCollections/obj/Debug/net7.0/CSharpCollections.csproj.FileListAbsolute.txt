@@ -1,0 +1,15 @@
+/home/anasantos/CSharpColecoes/CSharpCollections/bin/Debug/net7.0/CSharpCollections
+/home/anasantos/CSharpColecoes/CSharpCollections/bin/Debug/net7.0/CSharpCollections.deps.json
+/home/anasantos/CSharpColecoes/CSharpCollections/bin/Debug/net7.0/CSharpCollections.runtimeconfig.json
+/home/anasantos/CSharpColecoes/CSharpCollections/bin/Debug/net7.0/CSharpCollections.dll
+/home/anasantos/CSharpColecoes/CSharpCollections/bin/Debug/net7.0/CSharpCollections.pdb
+/home/anasantos/CSharpColecoes/CSharpCollections/obj/Debug/net7.0/CSharpCollections.csproj.AssemblyReference.cache
+/home/anasantos/CSharpColecoes/CSharpCollections/obj/Debug/net7.0/CSharpCollections.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/CSharpColecoes/CSharpCollections/obj/Debug/net7.0/CSharpCollections.AssemblyInfoInputs.cache
+/home/anasantos/CSharpColecoes/CSharpCollections/obj/Debug/net7.0/CSharpCollections.AssemblyInfo.cs
+/home/anasantos/CSharpColecoes/CSharpCollections/obj/Debug/net7.0/CSharpCollections.csproj.CoreCompileInputs.cache
+/home/anasantos/CSharpColecoes/CSharpCollections/obj/Debug/net7.0/CSharpCollections.dll
+/home/anasantos/CSharpColecoes/CSharpCollections/obj/Debug/net7.0/refint/CSharpCollections.dll
+/home/anasantos/CSharpColecoes/CSharpCollections/obj/Debug/net7.0/CSharpCollections.pdb
+/home/anasantos/CSharpColecoes/CSharpCollections/obj/Debug/net7.0/CSharpCollections.genruntimeconfig.cache
+/home/anasantos/CSharpColecoes/CSharpCollections/obj/Debug/net7.0/ref/CSharpCollections.dll

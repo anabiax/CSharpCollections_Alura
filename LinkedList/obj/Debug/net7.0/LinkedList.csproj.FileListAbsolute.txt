@@ -1,0 +1,15 @@
+/home/anasantos/CSharpColecoes/LinkedList/bin/Debug/net7.0/LinkedList
+/home/anasantos/CSharpColecoes/LinkedList/bin/Debug/net7.0/LinkedList.deps.json
+/home/anasantos/CSharpColecoes/LinkedList/bin/Debug/net7.0/LinkedList.runtimeconfig.json
+/home/anasantos/CSharpColecoes/LinkedList/bin/Debug/net7.0/LinkedList.dll
+/home/anasantos/CSharpColecoes/LinkedList/bin/Debug/net7.0/LinkedList.pdb
+/home/anasantos/CSharpColecoes/LinkedList/obj/Debug/net7.0/LinkedList.csproj.AssemblyReference.cache
+/home/anasantos/CSharpColecoes/LinkedList/obj/Debug/net7.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/CSharpColecoes/LinkedList/obj/Debug/net7.0/LinkedList.AssemblyInfoInputs.cache
+/home/anasantos/CSharpColecoes/LinkedList/obj/Debug/net7.0/LinkedList.AssemblyInfo.cs
+/home/anasantos/CSharpColecoes/LinkedList/obj/Debug/net7.0/LinkedList.csproj.CoreCompileInputs.cache
+/home/anasantos/CSharpColecoes/LinkedList/obj/Debug/net7.0/LinkedList.dll
+/home/anasantos/CSharpColecoes/LinkedList/obj/Debug/net7.0/refint/LinkedList.dll
+/home/anasantos/CSharpColecoes/LinkedList/obj/Debug/net7.0/LinkedList.pdb
+/home/anasantos/CSharpColecoes/LinkedList/obj/Debug/net7.0/LinkedList.genruntimeconfig.cache
+/home/anasantos/CSharpColecoes/LinkedList/obj/Debug/net7.0/ref/LinkedList.dll

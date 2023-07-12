@@ -1,0 +1,15 @@
+/home/anasantos/CSharpColecoes/ListasDeObjetos/bin/Debug/net7.0/ListasDeObjetos
+/home/anasantos/CSharpColecoes/ListasDeObjetos/bin/Debug/net7.0/ListasDeObjetos.deps.json
+/home/anasantos/CSharpColecoes/ListasDeObjetos/bin/Debug/net7.0/ListasDeObjetos.runtimeconfig.json
+/home/anasantos/CSharpColecoes/ListasDeObjetos/bin/Debug/net7.0/ListasDeObjetos.dll
+/home/anasantos/CSharpColecoes/ListasDeObjetos/bin/Debug/net7.0/ListasDeObjetos.pdb
+/home/anasantos/CSharpColecoes/ListasDeObjetos/obj/Debug/net7.0/ListasDeObjetos.csproj.AssemblyReference.cache
+/home/anasantos/CSharpColecoes/ListasDeObjetos/obj/Debug/net7.0/ListasDeObjetos.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/CSharpColecoes/ListasDeObjetos/obj/Debug/net7.0/ListasDeObjetos.AssemblyInfoInputs.cache
+/home/anasantos/CSharpColecoes/ListasDeObjetos/obj/Debug/net7.0/ListasDeObjetos.AssemblyInfo.cs
+/home/anasantos/CSharpColecoes/ListasDeObjetos/obj/Debug/net7.0/ListasDeObjetos.csproj.CoreCompileInputs.cache
+/home/anasantos/CSharpColecoes/ListasDeObjetos/obj/Debug/net7.0/ListasDeObjetos.dll
+/home/anasantos/CSharpColecoes/ListasDeObjetos/obj/Debug/net7.0/refint/ListasDeObjetos.dll
+/home/anasantos/CSharpColecoes/ListasDeObjetos/obj/Debug/net7.0/ListasDeObjetos.pdb
+/home/anasantos/CSharpColecoes/ListasDeObjetos/obj/Debug/net7.0/ListasDeObjetos.genruntimeconfig.cache
+/home/anasantos/CSharpColecoes/ListasDeObjetos/obj/Debug/net7.0/ref/ListasDeObjetos.dll

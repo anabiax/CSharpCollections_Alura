@@ -1,0 +1,15 @@
+/home/anasantos/CSharpColecoes/OPoderDosSets/bin/Debug/net7.0/OPoderDosSets
+/home/anasantos/CSharpColecoes/OPoderDosSets/bin/Debug/net7.0/OPoderDosSets.deps.json
+/home/anasantos/CSharpColecoes/OPoderDosSets/bin/Debug/net7.0/OPoderDosSets.runtimeconfig.json
+/home/anasantos/CSharpColecoes/OPoderDosSets/bin/Debug/net7.0/OPoderDosSets.dll
+/home/anasantos/CSharpColecoes/OPoderDosSets/bin/Debug/net7.0/OPoderDosSets.pdb
+/home/anasantos/CSharpColecoes/OPoderDosSets/obj/Debug/net7.0/OPoderDosSets.csproj.AssemblyReference.cache
+/home/anasantos/CSharpColecoes/OPoderDosSets/obj/Debug/net7.0/OPoderDosSets.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/CSharpColecoes/OPoderDosSets/obj/Debug/net7.0/OPoderDosSets.AssemblyInfoInputs.cache
+/home/anasantos/CSharpColecoes/OPoderDosSets/obj/Debug/net7.0/OPoderDosSets.AssemblyInfo.cs
+/home/anasantos/CSharpColecoes/OPoderDosSets/obj/Debug/net7.0/OPoderDosSets.csproj.CoreCompileInputs.cache
+/home/anasantos/CSharpColecoes/OPoderDosSets/obj/Debug/net7.0/OPoderDosSets.dll
+/home/anasantos/CSharpColecoes/OPoderDosSets/obj/Debug/net7.0/refint/OPoderDosSets.dll
+/home/anasantos/CSharpColecoes/OPoderDosSets/obj/Debug/net7.0/OPoderDosSets.pdb
+/home/anasantos/CSharpColecoes/OPoderDosSets/obj/Debug/net7.0/OPoderDosSets.genruntimeconfig.cache
+/home/anasantos/CSharpColecoes/OPoderDosSets/obj/Debug/net7.0/ref/OPoderDosSets.dll

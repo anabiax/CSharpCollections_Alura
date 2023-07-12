@@ -1,0 +1,15 @@
+/home/anasantos/CSharpColecoes/SetNoModelo/bin/Debug/net7.0/SetNoModelo
+/home/anasantos/CSharpColecoes/SetNoModelo/bin/Debug/net7.0/SetNoModelo.deps.json
+/home/anasantos/CSharpColecoes/SetNoModelo/bin/Debug/net7.0/SetNoModelo.runtimeconfig.json
+/home/anasantos/CSharpColecoes/SetNoModelo/bin/Debug/net7.0/SetNoModelo.dll
+/home/anasantos/CSharpColecoes/SetNoModelo/bin/Debug/net7.0/SetNoModelo.pdb
+/home/anasantos/CSharpColecoes/SetNoModelo/obj/Debug/net7.0/SetNoModelo.csproj.AssemblyReference.cache
+/home/anasantos/CSharpColecoes/SetNoModelo/obj/Debug/net7.0/SetNoModelo.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/CSharpColecoes/SetNoModelo/obj/Debug/net7.0/SetNoModelo.AssemblyInfoInputs.cache
+/home/anasantos/CSharpColecoes/SetNoModelo/obj/Debug/net7.0/SetNoModelo.AssemblyInfo.cs
+/home/anasantos/CSharpColecoes/SetNoModelo/obj/Debug/net7.0/SetNoModelo.csproj.CoreCompileInputs.cache
+/home/anasantos/CSharpColecoes/SetNoModelo/obj/Debug/net7.0/SetNoModelo.dll
+/home/anasantos/CSharpColecoes/SetNoModelo/obj/Debug/net7.0/refint/SetNoModelo.dll
+/home/anasantos/CSharpColecoes/SetNoModelo/obj/Debug/net7.0/SetNoModelo.pdb
+/home/anasantos/CSharpColecoes/SetNoModelo/obj/Debug/net7.0/SetNoModelo.genruntimeconfig.cache
+/home/anasantos/CSharpColecoes/SetNoModelo/obj/Debug/net7.0/ref/SetNoModelo.dll

@@ -1,0 +1,15 @@
+/home/anasantos/CSharpColecoes/List/bin/Debug/net7.0/List
+/home/anasantos/CSharpColecoes/List/bin/Debug/net7.0/List.deps.json
+/home/anasantos/CSharpColecoes/List/bin/Debug/net7.0/List.runtimeconfig.json
+/home/anasantos/CSharpColecoes/List/bin/Debug/net7.0/List.dll
+/home/anasantos/CSharpColecoes/List/bin/Debug/net7.0/List.pdb
+/home/anasantos/CSharpColecoes/List/obj/Debug/net7.0/List.csproj.AssemblyReference.cache
+/home/anasantos/CSharpColecoes/List/obj/Debug/net7.0/List.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/CSharpColecoes/List/obj/Debug/net7.0/List.AssemblyInfoInputs.cache
+/home/anasantos/CSharpColecoes/List/obj/Debug/net7.0/List.AssemblyInfo.cs
+/home/anasantos/CSharpColecoes/List/obj/Debug/net7.0/List.csproj.CoreCompileInputs.cache
+/home/anasantos/CSharpColecoes/List/obj/Debug/net7.0/List.dll
+/home/anasantos/CSharpColecoes/List/obj/Debug/net7.0/refint/List.dll
+/home/anasantos/CSharpColecoes/List/obj/Debug/net7.0/List.pdb
+/home/anasantos/CSharpColecoes/List/obj/Debug/net7.0/List.genruntimeconfig.cache
+/home/anasantos/CSharpColecoes/List/obj/Debug/net7.0/ref/List.dll

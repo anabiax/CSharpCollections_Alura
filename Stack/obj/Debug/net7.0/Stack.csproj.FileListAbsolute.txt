@@ -1,0 +1,15 @@
+/home/anasantos/CSharpColecoes/Stack/bin/Debug/net7.0/Stack
+/home/anasantos/CSharpColecoes/Stack/bin/Debug/net7.0/Stack.deps.json
+/home/anasantos/CSharpColecoes/Stack/bin/Debug/net7.0/Stack.runtimeconfig.json
+/home/anasantos/CSharpColecoes/Stack/bin/Debug/net7.0/Stack.dll
+/home/anasantos/CSharpColecoes/Stack/bin/Debug/net7.0/Stack.pdb
+/home/anasantos/CSharpColecoes/Stack/obj/Debug/net7.0/Stack.csproj.AssemblyReference.cache
+/home/anasantos/CSharpColecoes/Stack/obj/Debug/net7.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/CSharpColecoes/Stack/obj/Debug/net7.0/Stack.AssemblyInfoInputs.cache
+/home/anasantos/CSharpColecoes/Stack/obj/Debug/net7.0/Stack.AssemblyInfo.cs
+/home/anasantos/CSharpColecoes/Stack/obj/Debug/net7.0/Stack.csproj.CoreCompileInputs.cache
+/home/anasantos/CSharpColecoes/Stack/obj/Debug/net7.0/Stack.dll
+/home/anasantos/CSharpColecoes/Stack/obj/Debug/net7.0/refint/Stack.dll
+/home/anasantos/CSharpColecoes/Stack/obj/Debug/net7.0/Stack.pdb
+/home/anasantos/CSharpColecoes/Stack/obj/Debug/net7.0/Stack.genruntimeconfig.cache
+/home/anasantos/CSharpColecoes/Stack/obj/Debug/net7.0/ref/Stack.dll

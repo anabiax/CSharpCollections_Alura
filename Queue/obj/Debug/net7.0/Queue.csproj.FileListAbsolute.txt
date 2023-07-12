@@ -1,0 +1,15 @@
+/home/anasantos/CSharpColecoes/Queue/bin/Debug/net7.0/Queue
+/home/anasantos/CSharpColecoes/Queue/bin/Debug/net7.0/Queue.deps.json
+/home/anasantos/CSharpColecoes/Queue/bin/Debug/net7.0/Queue.runtimeconfig.json
+/home/anasantos/CSharpColecoes/Queue/bin/Debug/net7.0/Queue.dll
+/home/anasantos/CSharpColecoes/Queue/bin/Debug/net7.0/Queue.pdb
+/home/anasantos/CSharpColecoes/Queue/obj/Debug/net7.0/Queue.csproj.AssemblyReference.cache
+/home/anasantos/CSharpColecoes/Queue/obj/Debug/net7.0/Queue.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/CSharpColecoes/Queue/obj/Debug/net7.0/Queue.AssemblyInfoInputs.cache
+/home/anasantos/CSharpColecoes/Queue/obj/Debug/net7.0/Queue.AssemblyInfo.cs
+/home/anasantos/CSharpColecoes/Queue/obj/Debug/net7.0/Queue.csproj.CoreCompileInputs.cache
+/home/anasantos/CSharpColecoes/Queue/obj/Debug/net7.0/Queue.dll
+/home/anasantos/CSharpColecoes/Queue/obj/Debug/net7.0/refint/Queue.dll
+/home/anasantos/CSharpColecoes/Queue/obj/Debug/net7.0/Queue.pdb
+/home/anasantos/CSharpColecoes/Queue/obj/Debug/net7.0/Queue.genruntimeconfig.cache
+/home/anasantos/CSharpColecoes/Queue/obj/Debug/net7.0/ref/Queue.dll
