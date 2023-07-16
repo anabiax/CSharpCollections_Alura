@@ -13,7 +13,7 @@
 
 Pilha(stack) X Fila(queue) <br>
 1- Pilha: o primeiro que entra é o último que sai; <br>
-2- Fila: o primeiro que entra é o último que sai. E o último que entra é o primeiro que sai.
+2- Fila: o último que entra é o primeiro que sai.
 
 
 - Uma coleção List é ineficiente para inserir ou remover elementos no início da coleção, porque os elementos precisam ser reposicionados com frequência.
