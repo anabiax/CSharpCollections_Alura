@@ -4,7 +4,7 @@
 2- List (+ flexível de todas e a mais poderosa) -> permite inserir elementos em qqr posicao da colecao; <br>
     2.1 -> ListasDeObjetos; <br>
     2.2 -> ListaSomenteLeitura. <br>
-3- OPoderDosSets -> HashSet -> verifica se um elemento está contido no conjunto; <br>
+3- OPoderDosSets -> HashSet -> verifica se um elemento está contido no conjunto (n permite duplicacao); <br>
 4- SetNoModelo -> Dictionary -> buscar valor através de uma chave(buscar cliente por CPF ou CNPJ);  <br>
 5- LinkedList -> otimizada para adicionar e remover muitos elementos com bastante frequência(é + rapida). Nao é recomendado p/ buscas; <br>
 6- Stack -> similar ao exemplo da vida real de uma pilha de pratos(os últimos pratos colocados na pilha são os primeiros a serem retirados dela); <br>
